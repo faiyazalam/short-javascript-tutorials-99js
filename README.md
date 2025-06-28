@@ -48,6 +48,6 @@ Your improvements are welcome! Please:
 
 ## 📜 License
 
-Distributed under the [MIT Licensed](LICENSE).
+Distributed under the [MIT Licensed](LICENSE.md).
 
 **Credit is appreciated but not mandatory**!
